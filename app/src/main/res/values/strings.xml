@@ -148,7 +148,7 @@
     <string name="status_sent">Sent!</string>
     <string name="status_sent_long">Reply sent successfully.</string>
 
-    <string name="hint_domain">Which ActivityPub instance?</string>
+    <string name="hint_domain">Which instance?</string>
     <string name="hint_compose">What\'s happening?</string>
     <string name="hint_content_warning">Content warning</string>
     <string name="hint_display_name">Display name</string>
@@ -166,13 +166,13 @@
     <string name="login_connection">Connecting…</string>
 
     <string name="dialog_whats_an_instance">The address or domain of any instance can be entered
-        here, such as mastodon.social, icosahedron.website, social.tchncs.de, and
+        here, such as gab.ai (mastodon), freespeechextremist.com (pleroma, and
         <a href="https://instances.social">more!</a>
         \n\nIf you don\'t yet have an account, you can enter the name of the instance you\'d like to
         join and create an account there.\n\nAn instance is a single place where your account is
         hosted, but you can easily communicate with and follow folks on other instances as though
         you were on the same site.
-        \n\nMore info can be found at <a href="https://joinmastodon.org">joinmastodon.org</a>.
+        \n\nMore info can be found at <a href="https://joinfediverse.org">joinfediverse.org</a>.
     </string>
     <string name="dialog_title_finishing_media_upload">Finishing Media Upload</string>
     <string name="dialog_message_uploading_media">Uploading…</string>
@@ -327,7 +327,7 @@
     <string name="filter_add_description">Phrase to filter</string>
 
     <string name="add_account_name">Add Account</string>
-    <string name="add_account_description">Add new Mastodon Account</string>
+    <string name="add_account_description">Add new Mastodon API Account</string>
 
     <string name="action_lists">Lists</string>
     <string name="title_lists">Lists</string>
@@ -373,7 +373,7 @@
     <string name="restart">Restart</string>
     <string name="caption_systememoji">Your device\'s default emoji set</string>
     <string name="caption_blobmoji">The Blob emojis known from Android 4.4–7.1</string>
-    <string name="caption_twemoji">Mastodon\'s standard emoji set</string>
+    <string name="caption_twemoji">Twemoji\'s standard emoji set</string>
     <string name="emoji_shortcode_format" translatable="false">:%s:</string>
 
     <string name="download_failed">Download failed</string>
